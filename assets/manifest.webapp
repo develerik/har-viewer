@@ -1,0 +1,14 @@
+{
+  "version": "0.3.0",
+  "name": "HTTP Archive Viewer",
+  "description": "HTTP Archive Viewer",
+  "icons": {
+    "60": "firefox_app_60x60.png",
+    "128": "firefox_app_128x128.png",
+    "512": "firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": "Erik Bender",
+    "url": "https://develerik.dev"
+  }
+}
